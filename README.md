@@ -23,6 +23,7 @@ Bu proje, C# programlama dili ile hazırlanmış 3 farklı konsol uygulamasını
 **IDE Önerisi:** Visual Studio / Visual Studio Code
 
 **🛠 Özellikler**
+
 Kullanıcı dostu menü yapısı
 
 Hatalı girişlerde uyarı sistemi
