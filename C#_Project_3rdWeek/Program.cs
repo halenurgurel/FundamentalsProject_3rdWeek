@@ -7,7 +7,7 @@ class Program
     {
         while (true) // kullanıcı 0 çıkış seçeneğini basana kadar sonsuz döngü şeklinde uygulama seçimi devam eder.
         {
-            Console.WriteLine("Uygulama Menüsü;");
+            Console.WriteLine("Uygulama Menüsü:");
             Console.WriteLine("1- Rastgele Sayı Bulma Oyunu");
             Console.WriteLine("2- Hesap Makinesi");
             Console.WriteLine("3- Ortalama Hesaplama");
@@ -137,7 +137,7 @@ class Program
                 if (number2 != 0)
                     Console.WriteLine($"Sonuç: {number1 / number2}");
                 else
-                    Console.WriteLine("Sıfıra bölme yapamazsınız. İlk sayı sıfırdan büyük olmalı.");
+                    Console.WriteLine("Sıfıra bölme yapamazsınız. İkinci sayı sıfırdan farklı olmalı.");
                 break;
 
             default:
